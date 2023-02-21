@@ -1,0 +1,5 @@
+{
+    "sketch": "servo\\servo.ino",
+    "board": "Seeeduino:mbed:xiaonRF52840",
+    "port": "COM4"
+}
