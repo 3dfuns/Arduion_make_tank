@@ -3,26 +3,26 @@
     "configurations": [
         {
             "name": "Arduino",
-            "compilerPath": "C:\\Users\\J\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\bin\\arm-none-eabi-g++",
+            "compilerPath": "C:\\Users\\A\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\bin\\arm-none-eabi-g++",
             "compilerArgs": [
                 "-w",
                 "-nostdlib"
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                "C:\\Users\\J\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\cores\\arduino",
-                "C:\\Users\\J\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\variants\\SEEED_XIAO_NRF52840",
-                "C:\\Users\\J\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\cores\\arduino\\api\\deprecated",
-                "C:\\Users\\J\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\cores\\arduino\\api\\deprecated-avr-comp",
-                "c:\\users\\j\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1",
-                "c:\\users\\j\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1\\arm-none-eabi",
-                "c:\\users\\j\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1\\backward",
-                "c:\\users\\j\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\lib\\gcc\\arm-none-eabi\\7.2.1\\include",
-                "c:\\users\\j\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\lib\\gcc\\arm-none-eabi\\7.2.1\\include-fixed",
-                "c:\\users\\j\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include"
+                "C:\\Users\\A\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\cores\\arduino",
+                "C:\\Users\\A\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\variants\\SEEED_XIAO_NRF52840",
+                "C:\\Users\\A\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\cores\\arduino\\api\\deprecated",
+                "C:\\Users\\A\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\cores\\arduino\\api\\deprecated-avr-comp",
+                "c:\\users\\a\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1",
+                "c:\\users\\a\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1\\arm-none-eabi",
+                "c:\\users\\a\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1\\backward",
+                "c:\\users\\a\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\lib\\gcc\\arm-none-eabi\\7.2.1\\include",
+                "c:\\users\\a\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\lib\\gcc\\arm-none-eabi\\7.2.1\\include-fixed",
+                "c:\\users\\a\\appdata\\local\\arduino15\\packages\\seeeduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include"
             ],
             "forcedInclude": [
-                "C:\\Users\\J\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\cores\\arduino\\Arduino.h"
+                "C:\\Users\\A\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\mbed\\2.9.1\\cores\\arduino\\Arduino.h"
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",

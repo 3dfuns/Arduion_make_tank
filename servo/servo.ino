@@ -16,3 +16,6 @@ void loop() {
   delay(100);                       // wait for a second
 }
 
+void test() {
+  
+}
