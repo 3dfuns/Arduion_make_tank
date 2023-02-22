@@ -17,5 +17,5 @@ void loop() {
 }
 
 void test() {
-  
+  printf("test");
 }
